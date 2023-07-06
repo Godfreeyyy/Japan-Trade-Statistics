@@ -1,4 +1,4 @@
-![Alt text](image.png)
+![Alt text](assets/image.png)
 
 # Objectives:
 * Identify Japan's main trading partners
@@ -13,6 +13,6 @@
 
 # About Dataset:
 
-![Alt text](image-1.png)
+![Alt text](assets/image-1.png)
 
 
